@@ -1,49 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-        
 
-.open-sans-{
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+
+.open-sans- {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
 }
 
 .bebas-neue-regular {
     font-family: "Bebas Neue", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
 
-*{
+* {
     padding: 0;
     margin: 0;
-    
+
 }
-.div-image{
+
+.div-logo {
     height: 100%;
     display: flex;
     align-items: center;
 }
-.logo-nav{
+
+.logo-nav {
     height: 85%;
-    
+
 }
 
-.navHeader{
+.navHeader {
     background-color: #F5CB00;
     width: 100%;
     height: 5rem;
-    
+
     display: flex;
     justify-content: center;
     gap: 60%;
-     
+
 }
 
-.anclas{
+.anclas {
     display: flex;
     align-items: center;
     height: 100%;
@@ -54,48 +56,59 @@
     font-family: "Bebas Neue", sans-serif;
 }
 
-.anclaNav1{ 
+.anclaNav1 {
     color: black;
     text-decoration: none;
     width: 5rem;
 }
 
-.anclaNav{
+.anclaNav {
     color: black;
     text-decoration: none;
-   
+
 }
 
-.section1{
+.section1 {
     height: 110vh;
     width: 100%;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    background-color: antiquewhite;
 }
-.div-image{
+
+.div-image {
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+
+
+.div-text {
+    width: 50%;
+}
+
+.textos1 {
+    margin-top: 15%;
     display: flex;
-    width: 50%;
+    width: 40rem;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
-}
-.div-text{
-    width: 50%;
 }
 
-.titleSec1{
+.titleSec1 {
     font-family: "Bebas Neue", sans-serif;
-    width: 15rem;
-    font-size: 4rem;
+    width: 22rem;
+    font-size: 6rem;
+    font-weight: lighter;
 }
 
-.textSec1{
+.textSec1 {
     font-family: "Open Sans", sans-serif;
     font: 600;
     width: 29rem;
 }
 
-.btn-sec1{
+.btn-sec1 {
     background-color: #F5CB00;
     text-align: center;
     font-size: 15px;
@@ -103,4 +116,65 @@
     width: 10rem;
     height: 2.5rem;
     border: none;
+    margin-top: 20px;
+}
+
+.section-mitad{
+    width: 85%;
+    height: 24rem;
+    position: absolute;
+    top: 90%;
+    left: 7.5%;
+    background-color: #E6E6E6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 0px 20gitpx 50px rgba(0, 0, 0, 0.3);
+}
+
+.div-graphics{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 50px;
+    gap: 100px;
+    
+}
+
+.div-texts{
+   margin-left: 80px; 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title-middleSec{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 4rem;
+    font-weight: lighter;
+    line-height: 3.6rem;
+    color: #F5CB00;
+    
+}
+.text-middleSec{
+    width: 15rem;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+/*#E6E6E6*/
+.section-2{
+    background-color: #F5CB00;
+    height: 110vh;
+}
+
+.btnMiddleSec{
+    margin-top: 20px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: bolder;
+    text-align: start;
 }
