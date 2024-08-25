@@ -73,7 +73,7 @@
     width: 100%;
     display: flex;
     flex-direction: row;
-    background-color: antiquewhite;
+   
 }
 
 .div-image {
@@ -129,12 +129,12 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    box-shadow: 0px 20gitpx 50px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.3);
 }
 
 .div-graphics{
     display: flex;
-    align-items: center;
+    align-items: center;    
     justify-content: end;
     margin-right: 50px;
     gap: 100px;
