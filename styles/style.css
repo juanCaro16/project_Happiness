@@ -141,7 +141,7 @@
     margin-right: 50px;
     gap: 100px;
     
-}
+}         
 
 .div-texts{
    margin-left: 80px; 
@@ -216,7 +216,7 @@
 }
 
 .img-sec2{
-    position: relative;
+    position: absolute;
     left: 47rem;
-    bottom: 18rem;
+    top: 95rem;
 }
