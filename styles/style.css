@@ -38,7 +38,7 @@
     background-color: #F5CB00;
     width: 100%;
     height: 5rem;
-    position:fixed;
+    position: fixed;
     display: flex;
     justify-content: center;
     gap: 60%;
@@ -74,7 +74,7 @@
     width: 100%;
     display: flex;
     flex-direction: row;
-   
+
 }
 
 .div-image {
@@ -121,7 +121,7 @@
     margin-top: 20px;
 }
 
-.section-mitad{
+.section-mitad {
     width: 70%;
     height: 24rem;
     position: absolute;
@@ -134,45 +134,46 @@
     box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.3);
 }
 
-.div-graphics{
+.div-graphics {
     display: flex;
-    align-items: center;    
+    align-items: center;
     justify-content: end;
     margin-right: 50px;
     gap: 100px;
-    
-}         
 
-.div-texts{
-   margin-left: 80px; 
+}
+
+.div-texts {
+    margin-left: 80px;
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
-.title-middleSec{
+.title-middleSec {
     font-family: "Bebas Neue", sans-serif;
     font-size: 4rem;
     font-weight: lighter;
     line-height: 3.6rem;
     color: #F5CB00;
-    
+
 }
-.text-middleSec{
+
+.text-middleSec {
     width: 15rem;
     font-size: 15px;
     font-weight: bold;
     font-family: "Open Sans", sans-serif;
-    
+
 }
 
 /*#E6E6E6*/
-.section-2{
+.section-2 {
     background-color: #F5CB00;
     height: 130vh;
 }
 
-.btnMiddleSec{
+.btnMiddleSec {
     margin-top: 20px;
     border: none;
     background-color: transparent;
@@ -181,11 +182,11 @@
     text-align: start;
 }
 
-.textsSec2{
+.textsSec2 {
     margin-left: 15rem;
 }
 
-.titleSec2{
+.titleSec2 {
     font-family: "Bebas Neue", sans-serif;
     width: 40rem;
     line-height: 100px;
@@ -195,7 +196,7 @@
 }
 
 
-.textSec2{
+.textSec2 {
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     padding-top: 40px;
@@ -203,7 +204,7 @@
 }
 
 
-.btnSec2{
+.btnSec2 {
     color: #E6E6E6;
     background-color: black;
     text-align: center;
@@ -215,13 +216,13 @@
     margin-top: 40px;
 }
 
-.img-sec2{
+.img-sec2 {
     position: absolute;
     left: 47rem;
     top: 95rem;
 }
 
-.section-3{
+.section-3 {
     width: 100%;
     height: 100vh;
     display: flex;
@@ -229,28 +230,31 @@
     align-items: center;
     flex-direction: row;
 }
-.textsSec3{
-    background-color:#E6E6E6 ;
+
+.textsSec3 {
+    background-color: #E6E6E6;
     width: 621px;
     height: 676px;
     text-align: left;
     padding-left: 50px;
     margin-bottom: 4px;
-    box-shadow: 8px 10px 27px 0px rgba(0,0,0,0.5);
-}
-.img-sec3{
-    height: 676px;
-    box-shadow: 8px 10px 27px 0px rgba(0,0,0,0.5);
+    box-shadow: 8px 10px 27px 0px rgba(0, 0, 0, 0.5);
 }
 
-.title-sec3{
+.img-sec3 {
+    height: 676px;
+    box-shadow: 8px 10px 27px 0px rgba(0, 0, 0, 0.5);
+}
+
+.title-sec3 {
     font-family: "Bebas Neue", sans-serif;
-    color: #F5CB00;    
+    color: #F5CB00;
     font-size: 85px;
     font-weight: lighter;
     margin-top: 50px;
 }
-.btn-sec3{
+
+.btn-sec3 {
 
     color: #E6E6E6;
     background-color: black;
@@ -261,42 +265,44 @@
     height: 2.5rem;
     border: none;
     margin-top: 40px;
-    
+
 }
-.paragraph-Sec3{
+
+.paragraph-Sec3 {
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
     width: 24rem;
 }
-.div-graph01{
+
+.div-graph01 {
     width: 34rem;
     display: flex;
     justify-content: end;
 }
 
-.img-graph-sec3{
+.img-graph-sec3 {
     margin-top: 30px;
     width: 260px;
     height: 260px;
 }
 
-.section-4{
+.section-4 {
     background-color: black;
     height: 105vh;
     width: 100%;
-    
+
 }
 
-.titleSec4{
+.titleSec4 {
     font-family: "Bebas Neue", sans-serif;
-    color:#F5CB00;
+    color: #F5CB00;
     font-size: 40px;
     text-align: center;
     font-weight: lighter;
-    padding-top: 5% ; 
+    padding-top: 5%;
 }
 
-.paragraph-Sec4{
+.paragraph-Sec4 {
     color: #fff;
     font-family: "Open Sans", sans-serif;
     display: flex;
@@ -305,13 +311,14 @@
     margin-left: 35%;
 }
 
-.div-imageSec4{
+.div-imageSec4 {
     display: flex;
     justify-content: center;
     margin-top: 50px;
 }
-.btn-sec4{
-    background-color:#F5CB00;
+
+.btn-sec4 {
+    background-color: #F5CB00;
     text-align: center;
     font-size: 15px;
     font-weight: bolder;
@@ -322,25 +329,26 @@
     margin-left: 45%;
 }
 
-.section-5{
+.section-5 {
     width: 100%;
     height: 110vh;
     display: flex;
     flex-direction: row;
 }
 
-.div-imageSec5{
+.div-imageSec5 {
     width: 58%;
     display: flex;
     justify-content: end;
     align-items: center;
 }
-.img-sec5{
+
+.img-sec5 {
     width: 790px;
-    height: 620px ;
+    height: 620px;
 }
 
-.div-textsSec5{
+.div-textsSec5 {
     width: 42%;
     display: flex;
     justify-content: center;
@@ -348,19 +356,20 @@
     padding-left: 80px;
 }
 
-.titleSec5{
+.titleSec5 {
     font-family: "Bebas Neue", sans-serif;
     font-size: 70px;
     font-weight: lighter;
 }
-.paragraph-Sec5{
+
+.paragraph-Sec5 {
     font-family: "Open Sans", sans-serif;
     width: 23rem;
     font-weight: 500;
 }
 
-.btn-sec5{
-    background-color:#F5CB00;
+.btn-sec5 {
+    background-color: #F5CB00;
     text-align: center;
     font-size: 15px;
     font-weight: bolder;
@@ -369,15 +378,16 @@
     border: none;
     margin-top: 20px;
 }
-.section-6{
-    background-color:#E6E6E6;
+
+.section-6 {
+    background-color: #E6E6E6;
     width: 100%;
     height: 90vh;
     display: flex;
     flex-direction: row;
 }
 
-.div-textsSec6{
+.div-textsSec6 {
     width: 45%;
     display: flex;
     justify-content: center;
@@ -385,14 +395,15 @@
     flex-direction: column;
 }
 
-.titleSec6{
+.titleSec6 {
     font-family: "Bebas Neue", sans-serif;
     font-size: 90px;
     font-weight: lighter;
     width: 30rem;
     line-height: 70px;
 }
-.paragraph-Sec6{
+
+.paragraph-Sec6 {
     font-family: "Open Sans", sans-serif;
     font-weight: 500;
     width: 27rem;
@@ -400,8 +411,8 @@
     margin-top: 20px;
 }
 
-.btn-sec6{
-    background-color:#F5CB00;
+.btn-sec6 {
+    background-color: #F5CB00;
     text-align: center;
     font-size: 15px;
     font-weight: bolder;
@@ -412,6 +423,134 @@
     margin-right: 20rem;
 }
 
-.div-imageSec6{
+.div-imageSec6 {
     width: 55%;
+}
+
+.section-7 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.div1-sec7 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.divInputs-Sec7 {
+    background-color: black;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 10rem;
+}
+
+.form-container {
+    background-color: #000;
+    padding: 60px;
+    border: 3px solid #fff;
+    width: 470px;
+    
+}
+
+.input-box1 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.inputName {
+    width: 200px;
+}
+
+.inputSurname {
+    width: 200px;
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.input-box label {
+    margin-bottom: 10px;
+}
+
+.input-box input,
+.input-box textarea {
+    background-color: transparent;
+    border: 3px solid #fff;
+    color: #fff;
+    padding: 5px;
+    font-size: 14px;
+}
+
+.input-box input:focus,
+.input-box textarea:focus {
+    outline: none;
+    border-color: #F5CB00;
+}
+
+
+
+.textareaMessage {
+    resize: none;
+}
+
+.lorem-text {
+    font-size: 13px;
+    margin-top: 20px;
+    font-family: "Open Sans", sans-serif;
+    width: 500px;
+    font-weight: 600;
+
+}
+
+label {
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+}
+
+.div2-sec7 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.title-sec7 {
+    width: 30rem;
+    line-height: 70px;
+    font-size: 80px;
+    color: #F5CB00;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: lighter;
+}
+
+.paragraph-Sec7 {
+    width: 29rem;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.btn-sec7 {
+    color: #fff;
+    background-color: #000000;
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;
+    width: 10rem;
+    height: 2.5rem;
+    border: none;
+    margin-top: 50px;
 }
