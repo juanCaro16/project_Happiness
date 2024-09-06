@@ -844,7 +844,7 @@ a:hover {
 
 .section-2 {
     background-color: #F5CB00;
-    height: 120vh;
+    height: 140vh;
     display: flex;
     flex-direction: column;
 }
@@ -897,7 +897,7 @@ a:hover {
     width: 90%;
     height: 38%;
     left: 5%;
-    top: 105rem;
+    top: 190%;
     border-radius: 5px;
 }
 
@@ -913,7 +913,7 @@ a:hover {
 .textsSec3 {
     background-color: #E6E6E6;
     width: 90%;
-    height: 50%;
+    height: 53%;
     text-align: left;
     padding-left: 5%;
     margin-left: 0%;
@@ -973,7 +973,7 @@ a:hover {
 
 .section-4 {
     background-color: black;
-    height: 80vh;
+    height: 90vh;
     width: 100%;
 
 }
@@ -1147,7 +1147,7 @@ a:hover {
 
 .section-7 {
     width: 100%;
-    height: 130vh;
+    height: 140vh;
     display: flex;
     flex-direction: column;
 }
@@ -1287,7 +1287,7 @@ label {
 }
 .section-8{
     width: 100%;
-    height: 97vh;
+    height: 105vh;
     background: #F5CB00;
     display: flex;
     align-items: center;
