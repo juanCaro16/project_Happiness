@@ -844,7 +844,7 @@ a:hover {
 
 .section-2 {
     background-color: #F5CB00;
-    height: 160vh;
+    height: 120vh;
     display: flex;
     flex-direction: column;
 }
@@ -897,9 +897,9 @@ a:hover {
     width: 90%;
     height: 38%;
     left: 5%;
-    top: 170%;
+    top: 150%;
     border-radius: 5px;
-    margin-top:5rem ;
+    margin-top:20rem ;
 }
 
 .section-3 {
